@@ -39,7 +39,16 @@ To view my portfolio locally or contribute, follow these simple steps.
    ```sh
    git clone https://github.com/sumedh-nagpure/Portfolio.git
    ```
-2. Open `index.html` in your browser to view the portfolio.
+2. Gather the Crew (Install Dependencies):
+  ```sh
+  cd Portfolio
+  npm install
+  ```
+4. Hit! (Launch the App):
+  ```sh
+  npm run dev
+  ```
+Hire Me ! (Access Portfolio): Open your browser and visit http://localhost:3000. Welcome to my Portfolio!
 
 ## Usage
 
