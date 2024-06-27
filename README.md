@@ -2,9 +2,7 @@ Absolutely! Here’s an enhanced and visually appealing README template for your
 
 ---
 
-<p align="center">
-  <img src="https://your-portfolio-image-url.com" alt="Portfolio Logo" width="200" height="200">
-</p>
+
 
 <h1 align="center">Sumedh Nagpure's Portfolio</h1>
 
@@ -15,11 +13,7 @@ Absolutely! Here’s an enhanced and visually appealing README template for your
 <p align="center">
   <a href="https://github.com/sumedh-nagpure/Portfolio.git"><strong>Explore the docs »</strong></a>
   <br />
-  <a href="https://sumedhnagpure.com">View Demo</a>
-  ·
-  <a href="https://github.com/sumedh-nagpure/Portfolio.git/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/sumedh-nagpure/Portfolio.git/issues">Request Feature</a>
+
 </p>
 
 ---
