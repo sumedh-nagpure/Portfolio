@@ -1,7 +1,3 @@
-Absolutely! Let's enhance the README template for your portfolio project to make it more innovative and visually appealing:
-
----
-
 <h1 align="center">Sumedh Nagpure's Portfolio</h1>
 
 <p align="center">
