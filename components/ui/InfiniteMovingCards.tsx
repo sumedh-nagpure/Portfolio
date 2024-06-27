@@ -95,12 +95,12 @@ export const InfiniteMovingCards = ({
                         }}
                         key={idx}
                     >
-                        <blockquote>
+                        <blockquote className="relative p-4 md:p-6">
                             <div
                                 aria-hidden="true"
                                 className="user-select-none -z-1 pointer-events-none absolute -left-0.5 -top-0.5 h-[calc(100%_+_4px)] w-[calc(100%_+_4px)]"
                             ></div>
-                            <span className=" relative z-20 text-sm md:text-lg leading-[1.6] text-white font-normal">
+                            <span className="relative z-20 text-sm md:text-lg leading-[1.6] text-white font-normal">
                                 {item.quote}
                             </span>
                             <div className="relative z-20 mt-6 flex flex-row items-center">
@@ -109,16 +109,17 @@ export const InfiniteMovingCards = ({
                                         <img src="/profile.svg" alt="profile" />
                                     </div>
                                     <div className="flex flex-col gap-1">
-                                        <span className=" text-xl leading-[1.6] text-white font-bold">
+                                        <span className="text-xl leading-[1.6] text-white font-bold">
                                             {item.name}
                                         </span>
-                                        <span className=" text-sm leading-[1.6] text-white-200 font-normal">
+                                        <span className="text-sm leading-[1.6] text-white-200 font-normal">
                                             {item.title}
                                         </span>
                                     </div>
                                 </span>
                             </div>
                         </blockquote>
+
                     </li>
                 ))}
             </ul>
